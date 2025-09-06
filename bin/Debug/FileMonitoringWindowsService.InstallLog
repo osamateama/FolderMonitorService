@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.InstallLog
+   assemblypath = C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.exe
+Installing service FileMonitoringService...
+Service FileMonitoringService has been successfully installed.
+Creating EventLog source FileMonitoringService in log Application...
+Committing assembly 'C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.InstallLog
+   assemblypath = C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.exe

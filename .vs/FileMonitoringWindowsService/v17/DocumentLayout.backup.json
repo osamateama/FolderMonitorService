@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FileMonitoringWindowsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB12916-25FC-4A51-8CBF-919859B081B5}|FileMonitoringWindowsService.csproj|C:\\FileMonitoringWindowsService\\filemonitoringwindowsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB12916-25FC-4A51-8CBF-919859B081B5}|FileMonitoringWindowsService.csproj|solutionrelative:filemonitoringwindowsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB12916-25FC-4A51-8CBF-919859B081B5}|FileMonitoringWindowsService.csproj|c:\\filemonitoringwindowsservice\\installermfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB12916-25FC-4A51-8CBF-919859B081B5}|FileMonitoringWindowsService.csproj|solutionrelative:installermfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB12916-25FC-4A51-8CBF-919859B081B5}|FileMonitoringWindowsService.csproj|C:\\FileMonitoringWindowsService\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB12916-25FC-4A51-8CBF-919859B081B5}|FileMonitoringWindowsService.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB12916-25FC-4A51-8CBF-919859B081B5}|FileMonitoringWindowsService.csproj|C:\\FileMonitoringWindowsService\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB12916-25FC-4A51-8CBF-919859B081B5}|FileMonitoringWindowsService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\FileMonitoringWindowsService\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\FileMonitoringWindowsService\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:00:43.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileMonitoringWindowsService.cs",
+              "DocumentMoniker": "C:\\FileMonitoringWindowsService\\FileMonitoringWindowsService.cs",
+              "RelativeDocumentMoniker": "FileMonitoringWindowsService.cs",
+              "ToolTip": "C:\\FileMonitoringWindowsService\\FileMonitoringWindowsService.cs",
+              "RelativeToolTip": "FileMonitoringWindowsService.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:15:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstallerMFS.cs",
+              "DocumentMoniker": "C:\\FileMonitoringWindowsService\\InstallerMFS.cs",
+              "RelativeDocumentMoniker": "InstallerMFS.cs",
+              "ToolTip": "C:\\FileMonitoringWindowsService\\InstallerMFS.cs",
+              "RelativeToolTip": "InstallerMFS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:25:08.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FileMonitoringWindowsService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\FileMonitoringWindowsService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:14:57.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

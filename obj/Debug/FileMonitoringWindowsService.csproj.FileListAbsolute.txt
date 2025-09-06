@@ -1,0 +1,8 @@
+C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.exe.config
+C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.exe
+C:\FileMonitoringWindowsService\bin\Debug\FileMonitoringWindowsService.pdb
+C:\FileMonitoringWindowsService\obj\Debug\FileMonitoringWindowsService.csproj.AssemblyReference.cache
+C:\FileMonitoringWindowsService\obj\Debug\FileMonitoringWindowsService.csproj.CoreCompileInputs.cache
+C:\FileMonitoringWindowsService\obj\Debug\FileMonitoringWindowsService.exe
+C:\FileMonitoringWindowsService\obj\Debug\FileMonitoringWindowsService.pdb
+C:\FileMonitoringWindowsService\obj\Debug\FileMonitoringWindowsService.exe.config
